@@ -1,0 +1,15 @@
+{
+  "editor.renderWhitespace": "boundary",
+  "editor.rulers": [ 90 ],
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.trimAutoWhitespace": false,
+  "files.trimTrailingWhitespace": false,
+  "files.insertFinalNewline": true,
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "plaintext"
+  ],
+}
