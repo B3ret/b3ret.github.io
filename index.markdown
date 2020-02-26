@@ -14,9 +14,12 @@ solutions to problems I encountered.
 
 ---
 
+<div class="post-list">
 {% for post in site.posts %}
 
-### [{{ post.title }}]({{ post.url }})
+<small>{{ post.date | date_to_string }}</small>
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 <p>{{ post.excerpt }}</p>
----
+<hr />
 {% endfor %}
+</div>

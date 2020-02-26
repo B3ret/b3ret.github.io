@@ -1,6 +1,9 @@
 .inline-image {
   vertical-align: middle;
 }
+.post-list h3 {
+  margin-top: 0.25em;
+}
 .vimeo-wrapper {
   position: relative;
   width: 100%;
