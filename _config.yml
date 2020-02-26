@@ -16,7 +16,7 @@ title: Benjamin Hopfer Software Solutions
 baseurl: ""
 url: "https://benjaminhopfer.com"
 github_username: b3ret
-# logo: assets/img/logo.png
+logo: assets/logo/logo.png
 show_downloads: false
 
 # Build settings
