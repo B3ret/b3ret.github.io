@@ -41,8 +41,9 @@ Last update: 25.2.2020.
 
 ### How to contact me
 
-All contact options can be found at the bottom of my [About me]({% link about-me.markdown
-%}) page.
+The best way to contact me is via email at {% include link_mailtome.html %}. All other
+contact options can be found at the bottom of my [About me]({% link about-me.markdown %})
+page.
 
 ### How to contact the appropriate authority
 

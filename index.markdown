@@ -1,17 +1,22 @@
 ---
 layout: page
-title: Welcome
+title: 
 permalink: /
 ---
 
-This is a blog about problems I faced and the solutions I found.
-It is also a portfolio of my work.
+*I'm a freelancing software engineer with strong algorithmic skills and in depth experience
+with C# and C++.*
 
-I'm a freelancing software engineer with strong algorithmic skills and in depth experience
-with C# and C++.
+This blog presents a selection of my past and present work as well as some hands-on
+solutions to problems I encountered.
 
-At the moment my work entails mainly 3d data processing in digital dentistry
-(C++, Qt, vtk, PCL).
+<div style="margin-bottom: 5em;"> </div>
 
-Reach out to me at [contact@benjaminhopfer.com](mailto:contact@benjaminhopfer.com)
-for my availability and rates.
+---
+
+{% for post in site.posts %}
+
+### [{{ post.title }}]({{ post.url }})
+<p>{{ post.excerpt }}</p>
+---
+{% endfor %}

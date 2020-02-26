@@ -9,9 +9,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #
-title: Benjamin Hopfer Software Solutions
-email: contact@benjaminhopfer.com
+author: Benjamin Hopfer
 description: Problems and solutions of a freelancing software engineer
+email: contact@benjaminhopfer.com
+title: Benjamin Hopfer Software Solutions
 baseurl: ""
 url: "https://benjaminhopfer.com"
 github_username: b3ret
@@ -21,8 +22,7 @@ show_downloads: false
 # Build settings
 #
 theme: jekyll-theme-minimal
-# plugins:
-  # - jekyll-feed
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 #

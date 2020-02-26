@@ -1,0 +1,38 @@
+.inline-image {
+  vertical-align: middle;
+}
+.vimeo-wrapper {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+  margin-bottom: 1em;
+}
+.vimeo-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.wrapped-image-33  {
+  float: right;
+  margin: 0px 0px 5px 20px;
+  width: 33%;
+}
+.wrapped-image-50  {
+  float: right;
+  margin: 0px 0px 5px 20px;
+  width: 50%;
+}
+.wrapped-image-100  {
+  float: right;
+  margin: 0px 0px 20px 0px;
+  width: 100%;
+}
+.wrapped-image-descr {
+  width: 100%;
+  text-align: center;
+}

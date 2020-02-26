@@ -10,7 +10,8 @@ permalink: /about-me/
 
 ### Relaxed writeup
 
-![A picture of me](/assets/about-me_img.jpg){:style="float: right;margin-left: 20px;margin-top: 20px; width: 33%"}
+{% include image_33.html src="/assets/about-me_img.jpg"
+                         descr="A picture of me" %}
 
 I always had a strong interest in problems of all kinds, especially riddles, math
 problems, and algorithmic problems. After my Mechanical Engineering education in high
@@ -38,8 +39,11 @@ others. In addition I’m always interested in learning new technologies and wil
 rate accordingly during the learning phase.
 
 I'm looking forward to hearing about your project and discuss my availability at
-[contact@benjaminhopfer.com](mailto:contact@benjaminhopfer.com).
+{% include link_mailtome.html %}.
 
 ---
 
-**Legal and contact details**: [![ECG](/assets/ecg.png){:style="vertical-align: middle"}](https://www.wkoecg.at/Web/Ecg.aspx?FirmaID=89ecfd17-edd3-4f2c-a7fe-183124fabd18)
+**Legal and contact details:**
+[{% include inline_image.html src="/assets/ecg.png"
+                              descr="Link to full info at WKÖ"
+%}](https://www.wkoecg.at/Web/Ecg.aspx?FirmaID=89ecfd17-edd3-4f2c-a7fe-183124fabd18)
