@@ -7,8 +7,8 @@ tags: [C#, Visual Studio]
 ---
 
 A few days ago I passed the last interview round for
-[toptal.com](https://www.toptal.com/#pick-just-supreme-devs) (affiliated). Toptal is a
-platform for connecting freelancing software developers with companies. In this sense it
+[toptal.com](https://www.toptal.com/#pick-just-supreme-devs) (affiliated link). Toptal is
+a platform for connecting freelancing software developers with companies. In this sense it
 is much like [freelancer.com](https://www.freelancer.com/]) or
 [upwork.com](https://www.upwork.com/), but there is one very big difference: they only
 accept developers that are actually good.
@@ -68,8 +68,8 @@ And this is how you get onto toptal.com as a developer. Currently I’m waiting 
 profile to be approved by an editor, which will also provide me with hints to improve it —
 yes, they are that professional. If you happen to need a proven developer that also
 completed this thorough interview process, head over to
-[toptal.com](https://www.toptal.com/#pick-just-supreme-devs) (affiliated). They really
-know what they are doing.
+[toptal.com](https://www.toptal.com/#pick-just-supreme-devs) (affiliated link). They
+really know what they are doing.
 
 **Update 2018-03-28**: I still haven’t worked via Toptal, and probably won’t in the near
 future, so I still can’t comment on anything after the interview process.  
@@ -79,7 +79,18 @@ option. They are now also marked as affiliated.
 
 **Update 2020-02-26**: I'm moving my website to GitHub pages and in the process I'm
 tidying up the wording of this article and getting rid of the comment section. However,
-I'm migrating useful old comments onto here as well (anonymized):
+I'm migrating useful old comments onto here as well (anonymized). They're added below.
+
+**Update 2022-01-05**: I've worked via Toptal on a short time gig in March/April 2021. The
+recruiter found me for a problem-fixing-job fitting my skills *perfectly*, and I had some
+time and especially interest to finish that short task. Everything from communication, to
+rate setting, to payment, has been working professionally and perfectly for that job.
+
+I've set my availablility on the page to zero hours (none), but I still get perfect-fit
+offers a couple times a year on jobs they can't find anyone else for. I'd love to work
+most of them, I just don't have the time. The Toptal community on Slack helped me with
+taxing my income properly as well; there are groups for most countries.
+(Affiliate euros earned through this article since ~2016: zero.)
 
 ---
 
