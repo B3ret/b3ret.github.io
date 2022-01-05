@@ -7,7 +7,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 
-gem "github-pages", "~> 219", group: :jekyll_plugins
+# Find the version here: https://github.com/github/pages-gem/releases
+#
+gem "github-pages", "~> 221", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 #
